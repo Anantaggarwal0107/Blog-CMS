@@ -1,0 +1,83 @@
+= Michael Blog CMS
+
+A small demo of the App : https://drive.google.com/file/d/1XTsxsFfLDD_-mOozhmhWex5gu7Oof9BC/view?usp=sharing[Click me]
+
+=== Personal Blog done with VUE and SpringBoot
+
+This is a blog CMS developed with Vue JS and Spring boot with the following features:
+
+. Login
+
+. Logout
+
+. Register
+
+. Manage Users (Only the Admin)
+
+. Delete Users (Only for the Admin)
+
+. Add / Delete Article (For Admin and Moderator)
+
+. Read Article (For all Users)
+
+. Comment an Article (For all Users)
+
+. Change / Reset Password (For all Users)
+
+. Edit profile (For all Users)
+
+. Delete your comment (For all Users but the Admin can delete for all Users)
+
+=== INSTALLATION
+
+To install and run this project follow these steps:
+
+. Clone this repository
+
+. Install Gradle Dependency
+
+. Go to (src/main/frontend) and  run "npm install" command to download frontend dependencies
+
+=== RUN THE PROJECT
+
+. Go to (src/main/frontend) and  run "npm run serve". The app will start on port 8080
+
+. Go to (src/main/java/com/auth/template/demo/) und start the Spring Boot Rest Api with "DemoApplication.java" as main class (The api will
+start on port 8090)
+
+=== Default Users for Login
+image:/images/users.png?raw=true[Default users]
+
+. You can find the default users in the TestUser.java class (src/main/java/com/auth/template/demo/scopes/user/entities/TestUser.java)
+
+. You can also register and navigate on the App
+
+=== Used Technologie
+
+. Vue with Vuex(Store an state Management)
+
+. Axios for the http Request
+
+. Java Spring Boot for the Backend
+
+. H2 Virtual Database with JPA
+
+You can see all dependencies in :
+
+. build.gradle file (Gradle Dependencies)
+
+. frontend/package.json (Vue Dependencies)
+
+
+=== App Sample
+
+
+image:/images/1.png?raw=true[1]
+
+image:/images/2.png?raw=true[2]
+
+image:/images/3.png?raw=true[3]
+
+image:/images/4.png?raw=true[4]
+
+image:/images/5.png?raw=true[5]
