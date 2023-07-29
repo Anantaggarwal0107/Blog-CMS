@@ -9,7 +9,7 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="site-heading">
-            <h1>#Michael Blog</h1>
+            <h1>#Anant Blog</h1>
             <span class="subheading">My Personal Blog , more about my life</span>
           </div>
         </div>

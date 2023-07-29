@@ -7,7 +7,7 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
-            <h1>I'm Michael Mboni</h1>
+            <h1>I'm Anant Aggarwal</h1>
             <span class="subheading">This is what I do.</span>
           </div>
         </div>
@@ -19,12 +19,11 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-        <p>I am currently studying computer science at the TU Dresden. I have basic knowledge of English,
-          very good knowledge of German and French as my mother tongue. Communication is one of my strengths.
+        <p>I have done my B.tech in Mathematics and Computing at the DTU. Communication is one of my strengths.
           I can deal with stress well and am capable of criticism. I can learn the tasks quickly and i am reliable
           with my work.</p>
         <p>I really love programming and have a lot of fun with it.</p>
-        <p>More about me  on : <a href="https://michael-mb.github.io/Michael-CV/" target="_blank">Michael</a></p>
+        <!-- <p>More about me  on : <a href="https://michael-mb.github.io/Michael-CV/" target="_blank">Anant</a></p> -->
       </div>
     </div>
   </div>

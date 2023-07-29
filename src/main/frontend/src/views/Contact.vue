@@ -20,7 +20,7 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
         <p>Want to get in touch? Fill out the form below to send me an Email and I will get back to you as soon as possible!</p>
-        <a href="mailto:mbonimichael@yahoo.fr">mbonimichael@yahoo.fr</a>
+        <a href="mailto:anantaggarwal0107@gmail.com">anantaggarwal0107@gmail.com</a>
       </div>
     </div>
   </div>
